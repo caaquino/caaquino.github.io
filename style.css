@@ -36,6 +36,10 @@ a {
   color: #b0d1f7;
 }
 
+.center {
+  text-align: center;
+}
+
 section {
   margin: 0;
   margin-bottom: 4ex;
